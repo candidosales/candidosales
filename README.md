@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**candidosales/candidosales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![linkedin badge](https://img.shields.io/badge/candidosales-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/candidosales/)
+[![twitter badge](https://img.shields.io/badge/@candidosales-30302f?style=flat&logo=twitter)](https://twitter.com/candidosales)
+[![medium badge](https://img.shields.io/badge/@candidosales-30302f?style=flat&logo=medium)](https://medium.com/@candidosales)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Go, Python, Angular and Wordpress projects
+- 🌱 I’m currently learning Google Cloud Platform, Machine Learning and Watercolour painting 🎨
+- 👯 I’m looking to collaborate on Projects and Mentoring
+- 🤔 I’m looking for help with Open Source
+- 💬 Ask me about anything
+- 📫 How to reach me: Twitter - @candidosales
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like to study tarot 
