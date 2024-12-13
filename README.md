@@ -8,7 +8,7 @@ I'm Brazilian 🇧🇷 from Piauí ☀️ and a Kitchener-based 🇨🇦 softwar
 
 * 🖥️  See my portfolio at [candidosales.me](http://www.candidosales.me/)
 * ✉️  You can contact me at [candidosg@gmail.com](mailto:candidosg@gmail.com)
-* 🚀  I'm currently working on [Cisco](http://www.cisco.com/c/en_ca/index.html)
+* 🚀  I'm currently working on [Wealthsimple](https://www.wealthsimple.com/en-ca)
 * 🧠  I'm learning [Rust](https://www.rust-lang.org/), [Svelte](https://svelte.dev/), LLM ([Deep Learning](https://course.fast.ai/)/NLP) and Gouache painting 🎨
 * 🤝  I'm open to collaborating on Projects and [Mentoring](https://adplist.org/mentors/candido-sales-gomes)
 * ⚡  I like to learn new recipes to cook 👨🏻‍🍳
